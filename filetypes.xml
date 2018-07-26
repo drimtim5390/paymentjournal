@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="php" type="PHP" />
       <mapping pattern="index.blade.php" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
